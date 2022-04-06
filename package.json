@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "stripe": "^8.215.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "shell-shop",
+  "version": "1.0.0",
+  "description": "shop for sell sheldon products",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Its-SheldonDev/ShellShop.git"
+  },
+  "keywords": [
+    "Shop",
+    "Store",
+    "Sheldon"
+  ],
+  "author": "Sheldon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Its-SheldonDev/ShellShop/issues"
+  },
+  "homepage": "https://github.com/Its-SheldonDev/ShellShop#readme"
+}
